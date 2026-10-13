@@ -1,0 +1,6 @@
+{
+  "name": "FitLife",
+  "description": "Aplikasi kebugaran all-in-one: Penghitung Kalori makanan Indonesia, Pengingat Air Minum, Rutinitas Diet, dan Workout di Rumah offline tanpa langganan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
